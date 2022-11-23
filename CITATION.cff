@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this corpus, please cite it as below."
+authors:
+  - family-names: Olivier
+    given-names: Marc
+    orcid: https://orcid.org/0000-0000-0000-0000
+title: Historical corpus of French legal texts
+version: v1.1
+date-released: 2022-11-23
